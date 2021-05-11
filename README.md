@@ -1,5 +1,6 @@
 # PoseEstimationBasicModule
 Can detect up to 33 landmarks in human body for pose estimation. Contains a basic module that can be used for many other projects involving gestures and angles.
+<br><br>
 
 <b>Can also detect a single landmark as denoted by the bigger circle. (Landmark 14 - Right Elbow)</b>
 
